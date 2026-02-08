@@ -64,7 +64,7 @@ Professional training in comedy, acting, and voice-over, melding technical exper
   - Played alongside future MLB star Jeff Francoeur
   - Played youth football alongside future NFL star Clay Matthews
 - Auburn University Football Walk-On (LB, 2005)
-- Auburn University Wrestling & Rugby Clubs
+- Auburn University Rugby Club
 
 ## Wrestling (2000-2004)
 
