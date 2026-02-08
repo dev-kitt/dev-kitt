@@ -111,7 +111,12 @@ Professional training in comedy, acting, and voice-over, melding technical exper
 
 ### Technology (2015-PRESENT)
 
-- Senior Software QA Engineer | Test Automation 12+YRS
+- Software QA Engineer | Test Automation 12+YRS
+  - in Global Carbon Markets
+  - in Cryptocurrency Markets
+  - in Commodities Trading Markets
+  - in C-Store Markets
+  - in QSR-Service Markets
 - TestComplete™ Community Hero Winner (2023)
 - 3x SmartBear® Community Leader of the Quarter
 - #4 SmartBear® Academy Worldwide Leaderboard (2023)
