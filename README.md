@@ -34,7 +34,7 @@
 
 **Certified Scrum Master®, Automation Engineer, <span style="color:#FAAFA5">Daily</span> Software Quality Assurance Expert**, and **ɯ0puɐɹ <span style="color:#ad7a88">Knightly</span> deve10per** specializing in Automation Architecture, Test Strategy and Planning, Documentation, QA/TDD/BDD Methodologies with a strong focus in Product Design, Development & Engineering, Creativity and Critical-Thinking, Problem Solving, Cross-System Integrations, Agile/Scrum with full SDLC coverage.
 
-- 🌚 by Kn1ght 👑 Agent of Chaos:
+- 🌚 by Kn1ght 🏰 Agent of Chaos:
   - 🐿️ art1st `¯\_(ツ)_/¯`
   - 🦦 act0r `stop(); //Hammertime!`
   - 🐹 comed1an `print("LOL")`
@@ -51,8 +51,8 @@ Professional training in comedy, acting, and voice-over, melding technical exper
 
 ### Acting (1995-Present)
 
-- Netflix® _Stranger Things™_ Season 5
-  - Dr. Kay Squadron Soldier - “Miller”
+- 🙃 Netflix® _Stranger Things™_ Season 5
+  - Dr. Kay Squadron Soldier - “Miller” 🪖
 - Shark Tank™ Applicant (BRAINbait, LLC)
 - Google Nest® 'Nesties' Award Winner
 - The Walking Dead® Audition (Season 8)
@@ -111,7 +111,7 @@ Professional training in comedy, acting, and voice-over, melding technical exper
 
 ### Technology (2015-PRESENT)
 
-- Software QA Engineer | Test Automation 12+YRS
+- 👑 Software QA Engineer | Test Automation 12+YRS
   - in Global Carbon Trading Markets
   - in Crypto Trading Markets
   - in Commodities Trading Markets
