@@ -112,14 +112,16 @@ Professional training in comedy, acting, and voice-over, melding technical exper
 ### Technology (2015-PRESENT)
 
 - Software QA Engineer | Test Automation 12+YRS
-  - in Global Carbon Markets
-  - in Cryptocurrency Markets
+  - in Global Carbon Trading Markets
+  - in Crypto Trading Markets
   - in Commodities Trading Markets
-  - in C-Store Markets
-  - in QSR-Service Markets
+  - in C-Store Service Industry
+  - in QS-Restaurant Service Industry
 - TestComplete™ Community Hero Winner (2023)
 - 3x SmartBear® Community Leader of the Quarter
-- #4 SmartBear® Academy Worldwide Leaderboard (2023)
+- #4 SmartBear® Academy Worldwide Leaderboard (2023)\*\*
+
+<small>\*\*record previously held</small>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
