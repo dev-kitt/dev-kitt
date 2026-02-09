@@ -29,7 +29,7 @@
 
 👋 I’m a Deve10per, but you can call me Kitt! [randomly.engineering:](https://randomly.engineering) @random-knights
 
-- 🖥️ Eng1eer @qa-steve by Day 🌝 VCM and [Rand0m.AI](https://rand0m.ai) 
+- 🖥️ Eng1eer @qa-kitt by Day 🌝 VCM and [Rand0m.AI](https://rand0m.ai)
 - 💻 Deve10per @dev-kitt by Night 🌚 [Random Knights, XYZ](https://randomknights.xyz)
 
 **Certified Scrum Master®, Automation Engineer, <span style="color:#FAAFA5">Daily</span> Software Quality Assurance Expert**, and **ɯ0puɐɹ <span style="color:#ad7a88">Knightly</span> deve10per** specializing in Automation Architecture, Test Strategy and Planning, Documentation, QA/TDD/BDD Methodologies with a strong focus in Product Design, Development & Engineering, Creativity and Critical-Thinking, Problem Solving, Cross-System Integrations, Agile/Scrum with full SDLC coverage.
