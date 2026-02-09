@@ -27,10 +27,10 @@
 
 ## <span style="color:#D8D8D8"><u> **ABOUT ME** </u></span>
 
-👋 Hi, I’m Deve10per Kitt! [randomly.engineering:](https://randomly.engineering) @random-knights
+👋 I’m a Deve10per, but you can call me Kitt! [randomly.engineering:](https://randomly.engineering) @random-knights
 
-- 👑 Eng1eer @qa-kitt by Day 🌝 AKA @qa-steve
-- 🖥️ Deve10per @dev-kitt by Night 🌚 [Random Knights, XYZ](https://randomknights.xyz)
+- 🖥️ Eng1eer @qa-steve by Day 🌝 VCM and [Rand0m.AI](https://rand0m.ai) 
+- 💻 Deve10per @dev-kitt by Night 🌚 [Random Knights, XYZ](https://randomknights.xyz)
 
 **Certified Scrum Master®, Automation Engineer, <span style="color:#FAAFA5">Daily</span> Software Quality Assurance Expert**, and **ɯ0puɐɹ <span style="color:#ad7a88">Knightly</span> deve10per** specializing in Automation Architecture, Test Strategy and Planning, Documentation, QA/TDD/BDD Methodologies with a strong focus in Product Design, Development & Engineering, Creativity and Critical-Thinking, Problem Solving, Cross-System Integrations, Agile/Scrum with full SDLC coverage.
 
@@ -53,11 +53,11 @@ Professional training in comedy, acting, and voice-over, melding technical exper
 
 - 🙃 Netflix® _Stranger Things™_ Season 5
   - Dr. Kay Squadron Soldier - “Miller” 🪖
-- Shark Tank™ Applicant (BRAINbait, LLC)
+- Shark Tank™ 🦈 Applicant (BRAINbait, LLC)
 - Google Nest® 'Nesties' Award Winner
-- The Walking Dead® Audition (Season 8)
-- The Real World® Audition (Season 17)
-- Auburn University Theatre Major (Fr)
+- The Walking Dead® 🧟 Audition (Season 8)
+- The Real World® 🌎 Audition (Season 17)
+- Auburn University 🐅 Theatre Major (Fr)
 - Local Acting & Improv
 - High School Theatre
 
@@ -76,10 +76,12 @@ Professional training in comedy, acting, and voice-over, melding technical exper
 - 3x Undefeated HS State Champions (LB, 6A)
   - Played alongside future MLB star Jeff Francoeur
   - Played youth football alongside future NFL star Clay Matthews
-- Auburn University Football Walk-On (LB, 2005)
-- Auburn University Rugby Club
+- Auburn University 🐅🏈 Football Walk-On (LB, 2005)
+- Auburn University 🐅🏉 Rugby Club
 
 ### Wrestling (2000-2004)
+
+Career Total W/L 153-11
 
 - 2x State Champion (215lb, 1x Folkstyle & 1x Freestyle)
   - Wrestled alongside Cody Rhodes as a 2x State Finalist
@@ -87,20 +89,19 @@ Professional training in comedy, acting, and voice-over, melding technical exper
 - High School NWCA All-American (HM, 275lb)
 - 2x Team State Champions (Duals & Tournament)
 - GA State Record Holder\*\*
-  - Most Wins in Undefeated Season (61-0)\*\*
-  - \*\*Most Pins in a Season (51)
-  - Career Total W/L 153-11
-- Auburn University Wrestling Club
+  - **Most Wins in Undefeated Season** (61-0)\*\*
+  - **Most Pins in a Season** (51)
+- Auburn University 🐅🤼 Wrestling Club
 
 <small>\*\*record previously held</small>
 
 ### Military (2008-2012)
 
-- US Army Parachute Rigger - 82nd Airborne
+- US Army Parachute Rigger 🪂 82nd Airborne
 - Joint Airdrop Inspector & Modern Army Combatives Certified
 - Operation Enduring Freedom (Afghanistan) & Unified Response (Haiti)
 - **Airborne Special Operations Test Directorate Selectee**
-- 2x Army Achievement Medal & Soldier of the Quarter Recipient
+- 2x Army Achievement Medal 🎖️🎖️ Soldier of the Quarter Recipient
 - Basic Training Soldier of the Cycle Finalist
 
 ### Entrepreneurship (2017-Present)
