@@ -212,7 +212,6 @@ Career Total W/L 153-11
 [license-url]: https://github.com/random-knights/random/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/qa-kitt
-[product-gif]: https://github.com/random-knights/random/blob/main/src/assets/rubicon.gif
 
 <!-- WORKSPACE (C1: 723848) -->
 
