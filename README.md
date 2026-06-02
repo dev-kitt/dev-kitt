@@ -34,12 +34,16 @@
 
 **Certified Scrum Master®, Automation Engineer, <span style="color:#FAAFA5">Daily</span> Software Quality Assurance Expert**, and **ɯ0puɐɹ <span style="color:#ad7a88">Knightly</span> deve10per** specializing in Automation Architecture, Test Strategy and Planning, Documentation, QA/TDD/BDD Methodologies with a strong focus in Product Design, Development & Engineering, Creativity and Critical-Thinking, Problem Solving, Cross-System Integrations, Agile/Scrum with full SDLC coverage.
 
-- 🌚 by Kn1ght 🏰 Agent of Chaos:
-  - 🐿️ art1st `¯\_(ツ)_/¯`
-  - 🦦 act0r `stop(); //Hammertime!`
-  - 🐹 comed1an `print("LOL")`
-  - 🐇 pr0ducer `#TODO: Figure out what I’m doing here`
-  - 🐈 writ3r `Write-Output "Hello, $name!"`
+- 🌚 Knight1y 🏰 Agent of Chaos:
+  - 🦦 act0r `System.exit("And scene.");`
+  - 🐹 c0median `print("LOL");`
+  - 🐁 c00k `sudo make sandwich`
+  - 🐈‍⬛ deve10per `Works on my machine™`
+  - 🐺 direct0r `stop(); // Hammertime!`
+  - 🦝 exp10rer `cd ../somewhere-interesting`
+  - 🐭 rep0rter `BREAKING: Something happened.`
+  - 🐀 scient1st `It worked once. Let's publish.`
+  - 🦡 pr0tect0r `Access denied. Nice try.`
 
 <small>\*\*names are pseudonyms; anonymity is requested\*\*</small>
 
