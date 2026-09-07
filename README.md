@@ -7,10 +7,10 @@
     <img alt="dev-kitt" src="assets/dev-kitt.png">
   </picture>
 
-<h3 align="center" style="color:#ff4124">Random Knights, XYZ</h3>
+<h3 align="center" style="color:#ff4124">Random Knights</h3>
 
   <p align="center">
-    rand0m.ai & randomly.engineering
+    randomly.engineering @ rand0m.ai
     <br />
     <a href="https://github.com/random-knights/.github/blob/main/READMORE"><strong>Explore the docs »</strong></a>
     <br />
@@ -27,16 +27,16 @@
 
 👋 I’m a Deve10per, but you can call me Kitt! [randomly.engineering:](https://randomly.engineering) @random-knights
 
-- 🖥️ Eng1eer @qa-kitt by Day 🌝 VCM and [Rand0m.AI](https://rand0m.ai)
-- 💻 Deve10per @dev-kitt by Night 🌚 [Random Knights, XYZ](https://randomknights.xyz)
+- 🖥️ AI Eng1eer @qa-kitt by Day 🌝 
+- 💻 AI Deve10per @dev-kitt by Night 🌚 
 
-**Certified Scrum Master®, Automation Engineer, <span style="color:#FAAFA5">Daily</span> Software Quality Assurance Expert**, and **ɯ0puɐɹ <span style="color:#ad7a88">Knightly</span> deve10per** specializing in Automation Architecture, Test Strategy and Planning, Documentation, QA/TDD/BDD Methodologies with a strong focus in Product Design, Development & Engineering, Creativity and Critical-Thinking, Problem Solving, Cross-System Integrations, Agile/Scrum with full SDLC coverage.
+**ɯ0puɐɹ <span style="color:#ad7a88">knight1y</span> deve10per** specializing in DEV + AI.
 
 - 🌚 Knight1y 🏰 Agent of Chaos:
   - 🦦 act0r `System.exit("And scene.");`
   - 🐹 c0median `print("LOL");`
   - 🐁 c00k `sudo make sandwich`
-  - 🐈‍⬛ deve10per `Works on my machine™`
+  - 🐈‍⬛ **deve10per** `Works on my machine™`
   - 🐺 direct0r `stop(); // Hammertime!`
   - 🦝 exp10rer `cd ../somewhere-interesting`
   - 🐭 rep0rter `BREAKING: Something happened.`
@@ -44,89 +44,6 @@
   - 🦡 pr0tect0r `Access denied. Nice try.`
 
 <small>\*\*names are pseudonyms; anonymity is requested\*\*</small>
-
-<!-- RABBIT HOLE -->
-
-## <span style="color:#858585" name="rabbit-hole"> **AWARDS, SKILLS & HIGHLIGHTS** </span>
-
-Professional training in comedy, acting, and voice-over, melding technical expertise with creative performance. Specialist in creativity, improv, timing, and voice work with animated facial expressions to make Jim Carrey proud. Graduate of the Jeff Justice Comedy Workshop, with a strong foundation in acting and stand-up performance. Recognized for creative contributions across a diverse range of fields and industries.
-
-### Acting (1995-Present)
-
-- 🙃 Netflix® _Stranger Things™_ Season 5
-  - Dr. Kay Squadron Soldier - “Miller” 🪖
-- Shark Tank™ 🦈 Applicant (BRAINbait, LLC)
-- Google Nest® 'Nesties' Award Winner
-- The Walking Dead® 🧟 Audition (Season 8)
-- The Real World® 🌎 Audition (Season 17)
-- Auburn University 🐅 Theatre Major (Fr)
-- Local Acting & Improv
-- High School Theatre
-
-### Comedy (2006-Present)
-
-- Featured in NewStandUps.com
-- The Punchline, Atlanta
-- Eddie’s Attic
-- Smith’s Olde Bar
-- Hendershot’s
-- 40 Watt
-- Random Knights, XYZ
-
-### Football (1994-2005)
-
-- 3x Undefeated HS State Champions (LB, 6A)
-  - Played alongside future MLB star Jeff Francoeur
-  - Played youth football alongside future NFL star Clay Matthews
-- Auburn University 🐅🏈 Football Walk-On (LB, 2005)
-- Auburn University 🐅🏉 Rugby Club
-
-### Wrestling (2000-2004)
-
-Career Total W/L 153-11
-
-- 2x State Champion (215lb, 1x Folkstyle & 1x Freestyle)
-  - Wrestled alongside Cody Rhodes as a 2x State Finalist
-- 1x State Runner-Up (215lb, Folkstyle)
-- High School NWCA All-American (HM, 275lb)
-- 2x Team State Champions (Duals & Tournament)
-- GA State Record Holder\*\*
-  - **Most Wins in Undefeated Season** (61-0)\*\*
-  - **Most Pins in a Season** (51)
-- Auburn University 🐅🤼 Wrestling Club
-
-<small>\*\*record previously held</small>
-
-### Military (2008-2012)
-
-- US Army Parachute Rigger 🪂 82nd Airborne
-- Joint Airdrop Inspector & Modern Army Combatives Certified
-- Operation Enduring Freedom (Afghanistan) & Unified Response (Haiti)
-- **Airborne Special Operations Test Directorate Selectee**
-- 2x Army Achievement Medal 🎖️🎖️ Soldier of the Quarter Recipient
-- Basic Training Soldier of the Cycle Finalist
-
-### Entrepreneurship (2017-Present)
-
-- **Brain Bait, LLC** (2017-2019) - Co-oped college coursework with local small businesses
-- **STANDARDmade, LLC** (2019-2021) - Repurposed first-responder uniforms into custom apparel
-- **Random Knights, XYZ** (2025-Present) - Professional Services: everything you see here and more...
-
-### Technology (2015-PRESENT)
-
-- 👑 Software QA Engineer | Test Automation 12+YRS
-  - in Global Carbon Trading Markets
-  - in Crypto Trading Markets
-  - in Commodities Trading Markets
-  - in C-Store Service Industry
-  - in QS-Restaurant Service Industry
-- TestComplete™ Community Hero Winner (2023)
-- 3x SmartBear® Community Leader of the Quarter
-- #4 SmartBear® Academy Worldwide Leaderboard (2023)\*\*
-
-<small>\*\*record previously held</small>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## <span style="color:#555555"><u> **WORKSPACE** </u></span>
 
